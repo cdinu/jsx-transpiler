@@ -1,0 +1,14 @@
+{
+  "name": "jsx-transpiler-example",
+  "version": "1.0.0",
+  "description": "An example on how to use @hypersay/jsx-transpiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@hypersay/jsx-transpiler": "*"
+  },
+  "author": "Hypersay",
+  "license": "GPL-3.0-or-later"
+}
